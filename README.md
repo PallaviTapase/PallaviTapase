@@ -7,7 +7,7 @@
   <a href="https://www.codechef.com/users/pallavi_56"><img height="60" alt="codechef" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a> 
   <a href="https://www.instagram.com/pallavi_tapase27/"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
   <a href="pallavitapase27@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-   <a href="https://leetcode.com/pallavi_30/"><img alt="leetcode" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/LeetCode_logo_black.png"></a> 
+   <a href="https://leetcode.com/pallavi_30/"><img alt="leetcode" src="https://th.bing.com/th/id/OIP.VOQU8CuPG34Gsd1yJCadOQAAAA?rs=1&pid=ImgDetMain></a>
   
 
 </p>
